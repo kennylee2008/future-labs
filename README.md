@@ -4,7 +4,6 @@
   </a>
 </p>
 <h1 align="center">
-  Future Labs
+  This is the repository for comments in [Future Labs](https://www.futlabs.com) website
 </h1>
 
-## 🚀 Discussions for Future Labs Website
