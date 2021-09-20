@@ -4,6 +4,6 @@
   </a>
 </p>
 <h1 align="center">
-  This is the repository for comments in [Future Labs](https://www.futlabs.com) website
+  This is the repository for comments in https://www.futlabs.com website
 </h1>
 
