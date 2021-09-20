@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.futlabs.com/">
+    <img alt="Future Labs" src="https://www.futlabs.com/css/images/favicon.png" width="60" />
+  </a>
+</p>
+
 # How to Deploy
 
 ```bash
@@ -10,15 +16,19 @@ hexo clean && hexo deploy
 hexo new <post_title>
 ```
 
-# How to cut a image
+# How to cut an image
 
 Control + Command + a
 
-# How to paste a image
+or
+
+MacOS: Shift + Command + 3/4/5
+
+# How to paste an image
 
 Option(alt) + command + v
 
-Thanks the "vscode-hexo-utils" plugin
+Thanks the awesome **vscode-hexo-utils** plugin
 
 ## Quick Start
 
