@@ -1,7 +1,7 @@
 ---
 title: >-
   How to use the github discussions to add a comment feature to your static
-  website build with hexo?
+  website built with hexo?
 date: 2021-09-20 14:31:18
 tags:
   - Github
